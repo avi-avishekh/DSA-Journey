@@ -5,7 +5,7 @@ public class Practice_2 {
         S1.age=20;
         S1.course="CSE";
         S1.display();
-        Student S2;
+        Student S2; //S2 is not a object it is reference which can be used in creation of object.
     }
 }
 class Student{
